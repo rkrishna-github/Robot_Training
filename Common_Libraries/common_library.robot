@@ -9,4 +9,3 @@ Library           Screenshot
 Library           String
 Library           Telnet
 Library           XML
-Variables         ../Variable_Files/Variable_File1.py
