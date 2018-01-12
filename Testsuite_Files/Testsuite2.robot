@@ -2,4 +2,7 @@
 Resource          ../Common_Libraries/common_library.robot
 
 *** Test Cases ***
-TC1
+TC2
+    log    "123"
+    var     x    =    25
+    log     x
