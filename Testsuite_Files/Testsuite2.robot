@@ -8,8 +8,6 @@ ${x}    10
 TC1
     Log    "Hello"
 
-TC1
-=======
 TC2
     log    "123"
     log     ${x}
