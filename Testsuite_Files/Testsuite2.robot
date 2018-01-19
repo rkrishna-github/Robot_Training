@@ -2,7 +2,7 @@
 Resource          ../Common_Libraries/common_library.robot
 
 *** Variables ***
-${x}    10
+${x}              10
 
 *** Test Cases ***
 TC1
@@ -10,4 +10,4 @@ TC1
 
 TC2
     log    "123"
-    log     ${x}
+    log    ${x}
