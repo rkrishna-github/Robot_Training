@@ -19,7 +19,3 @@ Testcase_Setup
 
 Testcase_Teardown
     Log    "This is Testcase Teardwon defined globally at Testsuite Level"
-
-Keyword1
-    [Arguments]    ${arg1}
-    Log1    ${arg1}
